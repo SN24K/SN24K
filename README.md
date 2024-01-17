@@ -23,9 +23,9 @@
 
 ### :woman_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :computer: I’m working on Software Developing and Data Analysis.
+- :computer: I’m working on Software Development and Data Analysis / Data Science.
 
-- :telescope: Exploring Astrology as Hobby.
+- :telescope: Exploring Space Knowledge as Hobby.
 
 - :zap: read tech articles.
 
