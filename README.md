@@ -9,7 +9,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://sn24k.github.io/Saurabh/" align="center">
-    <img src="https://www.flaticon.com/free-icon/portfolio_351456?term=portfolio&page=1&position=4&origin=search&related_id=351456" alt="LinkedIn Badge"/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20-%208A2BE2" alt="">
+
   </a>
   
   <a href="your-twitter-URL" >
