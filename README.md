@@ -8,6 +8,9 @@
   <a href="www.linkedin.com/in/saurabh-katkar-8a7452229" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://sn24k.github.io/Saurabh/" align="center">
+    <img src="https://www.flaticon.com/free-icon/portfolio_351456?term=portfolio&page=1&position=4&origin=search&related_id=351456" alt="LinkedIn Badge"/>
+  </a>
   
   <a href="your-twitter-URL" >
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
