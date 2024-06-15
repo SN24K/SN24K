@@ -28,13 +28,13 @@
 
 ## :woman_technologist: About Me :
 I am a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :computer: I’m working on Software Development and Data Analysis / Data Science.
+- :computer: I’m working on Software Development and Data Analyst / Data Science.
 
 - :telescope: Exploring Space Knowledge as Hobby.
 
 - :zap: Read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/saurabh-katkar-8a7452229)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-katkar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/saurabh-katkar-8a7452229)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SN24K&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
